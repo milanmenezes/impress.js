@@ -1,0 +1,40 @@
+#elonlogo {
+	position: relative;
+	width: 140%;
+	left: -20%;
+
+}
+
+#bigbang {
+	position: relative;
+	width: 130%;
+	left: -15%;
+}
+
+#ironman {
+	position: relative;
+	width: 150%;
+	left: -20%;
+}
+
+#ieee {
+	width: 100%;
+} 
+
+#num1 {
+	font-size: 650%;
+}
+
+#txt1 {
+	font-size: 400%;
+}
+
+#txt2 {
+	font-size: 400%;
+	text-align: center;
+}
+
+.cylinder {
+	width: 50%;
+}
+

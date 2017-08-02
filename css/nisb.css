@@ -39,3 +39,22 @@
 	
 }
 
+#nisblogo {
+	width: 70%;
+}
+
+#num2 {
+	font-size: 650%;
+	text-align: center;
+}
+
+#txt3 {
+	font-size: 400%;
+	text-align: center;
+}
+
+.ieeebenefits {
+	width: 100%;
+	display: block;
+    margin: 0 auto;	
+}

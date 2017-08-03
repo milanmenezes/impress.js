@@ -5,6 +5,10 @@
 
 }
 
+#elon-2 {
+	margin-left: -20%;
+}
+
 #bigbang {
 	position: relative;
 	width: 130%;
@@ -40,7 +44,7 @@
 }
 
 #nisblogo {
-	width: 70%;
+	width: 80%;
 }
 
 #num2 {
@@ -57,4 +61,61 @@
 	width: 100%;
 	display: block;
     margin: 0 auto;	
+}
+
+#myieee{
+	width: 80%;
+}
+
+.smaller{ width: 70%; }
+
+#heading {font-size: 200%; text-align: center;}
+
+.cslogo {
+
+	width: 100%;
+}
+
+.img-center {
+	display: block;
+    margin: 0 auto;	
+}
+
+.txt-center {
+	text-align: center;
+}
+
+#cs-benefits {
+	font-size: 210%;
+}
+
+#cs-pub {
+	width: 130%;
+	margin-left: -12%;
+}
+
+.cs-txt-lrg {
+	font-size: 250%;
+}
+
+ ul {
+	list-style-type: circle;
+}
+
+ul li {
+	margin-left: 10%;
+}
+
+#project {
+	width: 140%;
+	margin-left: -18%;
+}
+
+#project-txt {
+	margin-top: -10%;
+
+}
+
+#wie-img-2 {
+	width: 90%;
 }
